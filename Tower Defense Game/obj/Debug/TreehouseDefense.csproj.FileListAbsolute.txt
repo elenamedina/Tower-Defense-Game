@@ -1,0 +1,8 @@
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\TeamTreehouse cs Basics\Tower Defense Game\bin\Debug\Tower Defense Game.pdb
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\TeamTreehouse cs Basics\Tower Defense Game\obj\Debug\Tower Defense Game.pdb
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\TeamTreehouse cs Basics\Tower Defense Game\bin\Debug\Tower Defense Game.exe.config
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\TeamTreehouse cs Basics\Tower Defense Game\bin\Debug\Tower Defense Game.exe
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\TeamTreehouse cs Basics\Tower Defense Game\obj\Debug\Tower Defense Game.exe
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\Tower Defense Game\Tower Defense Game\bin\Debug\Tower Defense Game.exe.config
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\Tower Defense Game\Tower Defense Game\obj\Debug\Tower Defense Game.exe
+\\mi\dfs\users\EMedina\Documents\Visual Studio 2015\Projects\Tower Defense Game\Tower Defense Game\obj\Debug\Tower Defense Game.pdb
